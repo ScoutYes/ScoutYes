@@ -1,0 +1,43 @@
+.div1 {
+	background-color: white;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border-top: 7px solid gold;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.indexabout {
+    margin-left: 10px;
+}
+.div2 {
+    background-color: #383838;
+    width: 1000px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top: 5px solid Violet;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.div3 {
+    background-color: white;
+    width: 159px;
+    height: 12px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    margin-right: auto;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+h5 { 
+	font-family: "Tahoma";
+	color: DarkOliveGreen;
+	}
+body {
+  background-image: url('background.png');
+}

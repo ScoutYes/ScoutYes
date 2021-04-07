@@ -34,6 +34,17 @@
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+	border-radius: 25px;
+  color: white;
+  padding: 12px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 .latest {
     margin-right: 20px;
     margin-left: 160px;

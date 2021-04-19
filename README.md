@@ -1,1 +1,1 @@
-# The ScoutYes Github Repository
+# The Hub for all Things ScoutYes

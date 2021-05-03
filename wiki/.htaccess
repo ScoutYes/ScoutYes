@@ -1,2 +1,2 @@
 RewriteCond %{REQUEST_URI} ^/wiki/.*
-RewriteRule (.*) http://scoutyes.netlify.app/wiki/Main_Page.htm/ [R=301,L]
+RewriteRule (.*) http://scoutyes.netlify.app/wiki/main_page [R=301,L]

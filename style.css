@@ -36,7 +36,7 @@
 }
 .button {
   background-color: Magenta; /* Green */
-  border:   border: 2px solid White; 
+  border:   border: 3.5px solid White; 
 	border-radius: 12px;
 	outline: none;
   color: Yellow;

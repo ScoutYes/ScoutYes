@@ -36,7 +36,7 @@
 }
 .button {
   background-color: #4CAF50; /* Green */
-  border: none;
+  border:   border: 2px solid White; 
 	border-radius: 12px;
 	outline: none;
   color: white;

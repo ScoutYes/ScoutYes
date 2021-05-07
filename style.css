@@ -35,11 +35,11 @@
     border-bottom-right-radius: 25px;
 }
 .button {
-  background-color: GreenYellow; /* Green */
+  background-color: Magenta; /* Green */
   border:   border: 2px solid White; 
 	border-radius: 12px;
 	outline: none;
-  color: magenta;
+  color: GreenYellow;
   padding: 12px 28px;
   text-align: center;
   display: inline-block;

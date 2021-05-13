@@ -45,18 +45,6 @@
   display: inline-block;
   font-size: 16px;
 }
-.latest {
-    margin-right: 20px;
-    margin-left: 160px;
-}	
-.mydanvel {
-    margin-left: 160px;
-	margin-right: 20px;
-}
-h5 { 
-	font-family: "Tahoma";
-	color: DarkOliveGreen;
-	}
 body {
   background-image: url('https://salc1.com/assets/images/background/background.png');
 }

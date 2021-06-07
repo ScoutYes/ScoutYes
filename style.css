@@ -21,9 +21,9 @@
     margin-top: 0px;
     margin-bottom: 0px;
     border-top: 5px solid Violet;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
 }
+/* border-bottom-left-radius: 25px; */
+/* border-bottom-right-radius: 25px; */
 .div3 {
     background-color: white;
     width: 159px;

@@ -1,6 +1,2 @@
-# Hi im ScoutYes
+cameron is stupid
 
-Official Github<br>
-website: www.scoutyes.cf<br>
-tiktok: @thescoutyes<br>
-email: caljosiahkay@gmail.com
